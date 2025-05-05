@@ -1,4 +1,5 @@
 **Proyecto de analisis y diseño de recursos educativos** 
+
 Definición del contexto y objetivos del software educativo a desarrollar
 Problema: Los estudiantes de Primero de Bachillerato presentan dificultades para evaluar discursos orales de forma crítica y para participar de manera fluida en diversas situaciones comunicativas, debido a un bajo dominio de la estructura de la lengua oral, el uso limitado de vocabulario especializado y las desviaciones comunes en el lenguaje.
 Tipo de educación: Formal.
