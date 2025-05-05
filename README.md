@@ -1,2 +1,2 @@
-# Prueba
-Este es un proyecto de prueba para la materia de Analisis y diseño de 4to ciclo.
+**Proyecto de analisis y diseño de recursos educativos** 
+ojo:Explicar de que trata el proyecto 
